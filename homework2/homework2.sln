@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program1", "homework1\program1.csproj", "{DA4B7C8D-AD34-4ABF-8698-1CCBD77C5E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progarm2", "progarm2\progarm2.csproj", "{0CDCDDD6-5FB7-4076-B444-7583570808A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program3", "program3\program3.csproj", "{04627B40-22C4-4950-98C2-BA8A5CB905E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4B7C8D-AD34-4ABF-8698-1CCBD77C5E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4B7C8D-AD34-4ABF-8698-1CCBD77C5E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4B7C8D-AD34-4ABF-8698-1CCBD77C5E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4B7C8D-AD34-4ABF-8698-1CCBD77C5E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDCDDD6-5FB7-4076-B444-7583570808A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDCDDD6-5FB7-4076-B444-7583570808A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDCDDD6-5FB7-4076-B444-7583570808A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDCDDD6-5FB7-4076-B444-7583570808A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04627B40-22C4-4950-98C2-BA8A5CB905E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04627B40-22C4-4950-98C2-BA8A5CB905E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04627B40-22C4-4950-98C2-BA8A5CB905E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04627B40-22C4-4950-98C2-BA8A5CB905E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953A9A50-4A42-45B0-ACDB-285A6C106757}
+	EndGlobalSection
+EndGlobal
