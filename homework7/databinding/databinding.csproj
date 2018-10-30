@@ -91,11 +91,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\homework6\program1\lasthomework.csproj">
-      <Project>{94131e9c-7487-493f-8152-9b1846402722}</Project>
-      <Name>lasthomework</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
